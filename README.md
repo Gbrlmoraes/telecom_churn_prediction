@@ -1,7 +1,7 @@
 # telecom_churn_prediction
 
-<p align = "center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=development&color=yellow&style=for-the-badge"/>
+<p style = "text-align:center">
+    <img src="http://img.shields.io/static/v1?label=STATUS&message=development&color=yellow&style=for-the-badge"/>
 </p>
 
 Sources: 
